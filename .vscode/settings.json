@@ -1,6 +1,6 @@
 {
     "sonarlint.connectedMode.project": {
-        "connectionId": "namdd067",
-        "projectKey": "dodaonam_Exercise"
+        "connectionId": "dodaonam_exercise",
+        "projectKey": "dodaonam_exercise"
     }
 }
